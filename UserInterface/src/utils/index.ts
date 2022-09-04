@@ -23,7 +23,7 @@ const ETHERSCAN_PREFIXES: { [chainId in ChainId]: string } = {
   4: 'rinkeby.',
   5: 'goerli.',
   42: 'kovan.',
-  80001: 'mumbai.',
+  9000: 'evm.',
 };
 
 export function getEtherscanLink(
@@ -33,8 +33,8 @@ export function getEtherscanLink(
 ): string {
   let prefix = `https://${ETHERSCAN_PREFIXES[chainId] || ETHERSCAN_PREFIXES[1]}etherscan.io`;
 
-  if (chainId === 80001){
-    prefix = `https://${ETHERSCAN_PREFIXES[chainId]}polygonscan.com`;
+  if (chainId === 9000){
+    prefix = `https://${ETHERSCAN_PREFIXES[chainId]}evmos.dev`;
   }
 
   switch (type) {
