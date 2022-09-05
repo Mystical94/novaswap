@@ -342,8 +342,8 @@ export default function WalletModal({
           )}
           {walletView !== WALLET_VIEWS.PENDING && (
             <Blurb>
-              <span>New to Polygon? &nbsp;</span>{' '}
-              <ExternalLink href="https://polygon.technology/">Learn more about wallets</ExternalLink>
+              <span>New to Evmos? &nbsp;</span>{' '}
+              <ExternalLink href="https://evmos.org/">Learn more about wallets</ExternalLink>
             </Blurb>
           )}
         </ContentWrapper>
