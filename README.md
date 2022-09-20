@@ -7,6 +7,10 @@ A decentralized exchange on EVMOS Chain based on UniswapV2 AMM mechanism
 ### Pool Page
 <img src="UserInterface/src/assets/novaswap_images/pool_page_dark.png" alt="Logo">
 
+## Changes from Uniswap V2 
+
+- Few changes have been done so that from the swapping fees of **0.3%**, **liquidity providers** will earn a fees of **0.27% of the total fees** to attract more and more liquidity providers to the protocol and the rest **0.03%** will be kept by the protocol for further developments.
+
 ## Deployed Contract Addresses
 
 - Factory: 0xe7f7067c9ecab27c5f7f13e02b13ed50931f6d0f
