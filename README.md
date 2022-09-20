@@ -7,6 +7,15 @@ A decentralized exchange on EVMOS Chain based on UniswapV2 AMM mechanism
 ### Pool Page
 <img src="UserInterface/src/assets/novaswap_images/pool_page_dark.png" alt="Logo">
 
+## Deployed Contract Addresses
+
+- Factory: 0xe7f7067c9ecab27c5f7f13e02b13ed50931f6d0f
+- Router: 0x4cab5791640c439d7aece517d70bfefca4b0fb6b
+- Init_Code_hash: 0xd6157cb1c80442a07fe509f707b74004c97caa9b82161a6db465c656c597666e
+- WETH Address : 0x3d486E0fBa11f6F929E99a47037A5cd615636E17
+- Multicall contract Address : 0x33779291b2588C942E3F179e336663F420cAe8Ba
+
+
 ## Deploying the NovaSwap on local machine
 
 ### Clone the repository
