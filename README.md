@@ -19,7 +19,7 @@ cd UserInterface
 
 install dependencies using **yarn** or **npm**
 
-**having some dependency version problems in yarn, so advised to use npm commands instead**
+- **having some dependency version problems in yarn, so advised to use npm commands instead**
 
 ```sh
 yarn
