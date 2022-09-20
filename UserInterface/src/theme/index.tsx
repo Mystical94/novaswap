@@ -41,8 +41,8 @@ export function colors(darkMode: boolean): Colors {
     black,
 
     // text
-    text1: darkMode ? '#fafafa' : '#01889f',  //Swap, token display color
-    text2: darkMode ? '#fc8427' : '#0048ba',  //Slippage tolerance and balance color
+    text1: darkMode ? '#f2f2f2' : '#01889f',  //Swap, token display color
+    text2: darkMode ? '#e6005c' : '#0048ba',  //Slippage tolerance and balance color
     text3: darkMode ? '#fafafa' : '#01889f',  //Enter an amount
     text4: darkMode ? '#565A69' : '#C3C5CB',
     text5: darkMode ? '#ea00a6' : '#EDEEF2',  
