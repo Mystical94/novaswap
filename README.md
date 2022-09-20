@@ -14,7 +14,7 @@ A decentralized exchange on EVMOS Chain based on UniswapV2 AMM mechanism
 - Init_Code_hash: 0xd6157cb1c80442a07fe509f707b74004c97caa9b82161a6db465c656c597666e
 - WETH Address : 0x3d486E0fBa11f6F929E99a47037A5cd615636E17
 - Multicall contract Address : 0x33779291b2588C942E3F179e336663F420cAe8Ba
-
+- NOVA Token Address: 0x186ee842BAEf9d85335181AC346BBb373f8f4Ab9
 
 ## Deploying the NovaSwap on local machine
 
